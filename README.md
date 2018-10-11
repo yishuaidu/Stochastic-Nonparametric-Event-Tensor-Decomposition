@@ -1,6 +1,6 @@
 
 ### Stochastic Nonparametric Event Tensor Decomposition @ ICDM'2018
-[Yishuai Du](https://www.linkedin.com/in/yishuai-du-583a17b5/) [Shandian Zhe](http://www.cs.utah.edu/~zhe/)
+ [Shandian Zhe](http://www.cs.utah.edu/~zhe/)   [Yishuai Du](https://www.linkedin.com/in/yishuai-du-583a17b5/)
 
 ## Requirement
 * MIT Licence
