@@ -1,5 +1,5 @@
 
-### Stochastic Nonparametric Event Tensor Decomposition @ ICDM'2018
+### Stochastic Nonparametric Event Tensor Decomposition @ NIPS'2018
  [Shandian Zhe](http://www.cs.utah.edu/~zhe/)   [Yishuai Du](https://www.linkedin.com/in/yishuai-du-583a17b5/)
 
 ## Requirement
