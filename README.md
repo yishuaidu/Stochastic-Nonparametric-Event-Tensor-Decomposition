@@ -1,5 +1,5 @@
 
-### Stochastic Nonparametric Event Tensor Decomposition @ NIPS'2018
+### [Stochastic Nonparametric Event Tensor Decomposition](https://nips.cc/Conferences/2018/Schedule?showEvent=11661) @ NIPS'2018
  [Shandian Zhe](http://www.cs.utah.edu/~zhe/)   [Yishuai Du](https://www.linkedin.com/in/yishuai-du-583a17b5/)
 
 ## Requirement
@@ -8,7 +8,7 @@
 
 ## How to run POST
 1. Download Stochastic-Nonparametric-Event-Tensor-Decomposition repository
-2. Open Matlab, run the "main.m" file in each subfolder of POST/code.
+2. Open Matlab, run the "main.m" file in each subfolder of ?????/code.
 
 
 
