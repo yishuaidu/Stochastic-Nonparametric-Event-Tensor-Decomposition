@@ -6,7 +6,7 @@
 * MIT Licence
 * [**Matlab**](https://www.mathworks.com/products/matlab.html) as the software to run our code
 
-## How to run POST
+## How to run 
 1. Download Stochastic-Nonparametric-Event-Tensor-Decomposition repository
 2. For our(rfp-hp), open Matlab, run the  ### "Test" +"_file_name_" + "hybrid.m" ### file for getting models
 and ### "Test_data_name_hybrid_more.m" ### for testing log likelihood.
