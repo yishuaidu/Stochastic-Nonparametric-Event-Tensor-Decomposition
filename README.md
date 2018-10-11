@@ -8,7 +8,15 @@
 
 ## How to run POST
 1. Download Stochastic-Nonparametric-Event-Tensor-Decomposition repository
-2. Open Matlab, run the "main.m" file in each subfolder of ?????/code.
+2. For our(rfp-hp), open Matlab, run the  ### "Test" +"_file_name_" + "hybrid.m" ### file for getting models
+and ### "Test_data_name_hybrid_more.m" ### for testing log likelihood.
+3. For CP-PTF(cp-pp), open Matlab, run the  ### "test" +"_file_name_" +"v2".m" file for getting models
+and ### "test" + "_file_name_" + "more".m" ### for testing log likelihood.
+4. For CPT-PTF(cpmarkov-pp), open Matlab, run the  ### "test" +"_file_name_" +"v2".m" file for getting models
+and ### "test" + "_file_name_" + "more".m" ### for testing log likelihood.
+5. For GP-PTF(rfp-pp), open Matlab, run the  ### "test" +"_file_name_" +"v2".m" file for getting models
+and ### "test" + "_file_name_" + "more".m" ### for testing log likelihood.
+6. For ./data/process-code, "preprocess_file_name_data_hybrid.m" for traning data ,  "preprocess_file_name_data_hybrid_test_more.m" for testing data and "process_file_name_data_hybrid_test_for_baselines.m" for baselines testing data.
 
 
 
@@ -21,22 +29,6 @@ are 50,938 entries observed to have events. The length of the longest event sequ
 From this dataset, we extracted a two mode event-tensor (UFO shape, city) , of size 28x19,408, with 45, 045 entries observed to have sighting events. The longest event sequence length is 113. There are in total 77,747 events.
 * [911](https://www.kaggle.com/mchirico), The 911 data record the emergency (911) calls from 2015-12-10 to 2017-04-10 in Montgomery County, PA. We focused on the Emergence Medical Service (EMS) calls and extracted a two mode even-tensor (EMS title, township), which is 72x69. There are 2,494 entries observed to have events. The length of the longest event sequence is 545. The total number of events are 59,270.
 
-## Note
-**1. 
-
-
-
-**2.
-
-
-Example:
-
-
-
-
-**3. 
-
-Example:
 
 
 
