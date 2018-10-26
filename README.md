@@ -21,7 +21,7 @@ and ### "test" + "_file_name_" + "more".m" ### for testing log likelihood.
 
 
 ## Dataset Intro
-There are 5 datasets:
+There are 3 datasets:
 * [Article](https://www.kaggle.com/gspmoreira), The Article data are 12 month logs (Mar. 2016 - Feb. 2017) of CI&T’s Internal Communi-cation platform (DeskDrop). It records users’ operations onthe shared articles of the platform, such as LIKE, FOLLOW
 and BOOKMARK. We extracted a three mode event-tensor(user, operation, session id), of size 1895x5x2987.There
 are 50,938 entries observed to have events. The length of the longest event sequence in all the entries is 76. The total number of events is 72, 312.
