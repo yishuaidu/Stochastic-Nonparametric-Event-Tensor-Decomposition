@@ -41,5 +41,3 @@ From this dataset, we extracted a two mode event-tensor (UFO shape, city) , of s
 
 NIPS 2018 
 
-
-do not forget 10k
